@@ -672,6 +672,17 @@ vendor/lib64/libmmcamera_faceproc2.so
 vendor/lib64/libmulticam_optical_zoom_control.so
 vendor/lib64/libmulticam_video_optical_zoom.so
 
+# Camera-firmware
+vendor/firmware/CAMERA_ICP.elf
+vendor/firmware/cmi_tele4x_ois.coeff
+vendor/firmware/cmi_tele4x_ois.mem
+vendor/firmware/cmi_tele4x_ois.prog
+vendor/firmware/cmi_wide_ois.coeff
+vendor/firmware/cmi_wide_ois.prog
+
+# Camera-configs
+vendor/etc/public.libraries.txt
+
 # CDSP
 vendor/bin/cdsprpcd
 vendor/etc/init/vendor.qti.cdsprpc-service.rc
