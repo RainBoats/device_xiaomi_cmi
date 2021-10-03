@@ -259,6 +259,14 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     org.ifaa.android.manager
 
+# GBoard
+PRODUCT_PACKAGES += \
+    Gboard
+
+# ViaBrowser
+PRODUCT_PACKAGES += \
+    ViaBrowser
+
 # IPACM
 PRODUCT_PACKAGES += \
     ipacm \
